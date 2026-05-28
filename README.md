@@ -85,3 +85,5 @@ SOURCE /path/to/database.sql;
 ## Seed Data (For Testing)
 *   **Manager**: `Employee ID: 102`
 *   **Employee**: `Employee ID: 101`
+
+here we learned how to design the er diagram and working with sqlworkbench connection to the backend to database how data flow takes place etc.
